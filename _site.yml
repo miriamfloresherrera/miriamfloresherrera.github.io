@@ -1,7 +1,7 @@
 name: "Miriam Flores Herrera"
 output_dir: "."
 navbar:
-  title: "Miriam Flores Herrera"
+  title: "Miriam Flores"
   left:
     - text: "Portefolio"
       href: portefolio.html
