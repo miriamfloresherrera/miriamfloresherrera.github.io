@@ -1,0 +1,16 @@
+name: "Miriam Flores Herrera"
+output_dir: "."
+navbar:
+  title: "Miriam Flores Herrera"
+  left:
+    - text: "Portefolio"
+      href: portefolio.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-linkedin fa-lg
+      href: https://be.linkedin.com/in/miriam-flores-33019231
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
