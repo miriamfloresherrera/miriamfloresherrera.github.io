@@ -2,5 +2,12 @@
 ---
 
 
-Voici mon portefolio reprennant une sélection de mes travaux antérieurs que ce soit pendant mes ateliers et stages ou pendant mes activités professionelles.
+Ci dessous une sélection de mes travaux antérieurs réalisés pendant mon emploi précédent ainsi que dans le cadre d'ateliers et stages.
+
+
+```{r pressure, echo=FALSE, fig.cap="A caption", out.width = '100%'}
+knitr::include_graphics("./img/portfolio_2_20184.png")
+```
+
+
 
